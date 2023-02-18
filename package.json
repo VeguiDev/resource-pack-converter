@@ -4,5 +4,29 @@
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1",
     "typescript": "^4.9.5"
-  }
+  },
+  "name": "resource-pack-converter",
+  "version": "1.0.0",
+  "description": "A tool to convert Minecraft Java Resource Pack to Bedrock",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeguiDev/resource-pack-converter.git"
+  },
+  "keywords": [
+    "MINECRAFT",
+    "RESOURCE",
+    "PACK",
+    "CONVERTER",
+    "BEDROCK"
+  ],
+  "author": "VeguiDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeguiDev/resource-pack-converter/issues"
+  },
+  "homepage": "https://github.com/VeguiDev/resource-pack-converter#readme"
 }
